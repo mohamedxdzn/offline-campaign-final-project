@@ -86,7 +86,7 @@ The project includes a complete visual system consisting of:
 - Adapting brand identity across digital platforms  
 - Designing engagement-focused visuals  
 
-### 👤 Kholoud Magdy – Print & Publication Designer
+### 👤 Kholoud Magd – Print & Publication Designer
 - Designing awareness posters  
 - Creating outdoor advertising concepts (billboards, roll-ups)  
 - Designing brochures and informational materials  
