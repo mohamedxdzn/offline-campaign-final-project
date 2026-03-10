@@ -79,7 +79,7 @@ The project includes a complete visual system consisting of:
 - Writing awareness content for posts and print materials  
 - Structuring informational hierarchy for brochures  
 
-### 👤 Menna Shalapy – Social Media Visual Designer
+### 👤 Menna Shalaby – Social Media Visual Designer
 - Designing social media post layouts  
 - Creating a unified grid system for campaign content  
 - Developing carousel structures for awareness storytelling  
